@@ -11,9 +11,7 @@ HTML : Estructura de la página.
 CSS : Estilo y diseño responsivo.
 JavaScript : Lógica para agregar, ordenar y reiniciar.
 Instalación
-Clona este repositorio:
-gh repo clone PriMartM/challenge-amigo-secreto_esp-main
-Abra el archivo index.htmlen su navegador.
+
 Uso
 Agrega nombres en el campo de texto.
 Haz clic en Añadirpara incluirlos.
